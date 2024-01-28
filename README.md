@@ -1,6 +1,6 @@
 # Learning to Manipulate under Limited Information
 
-README.md for the code used in the paper "Learning to Manipulate under Limited Information" by Wes Holliday, Alex.
+README.md for the code used in the paper "Learning to Manipulate under Limited Information" by Wesley H. Holliday, Alex Kristoffersen, and Eric Pacuit.
 
 ## Notebooks
 
