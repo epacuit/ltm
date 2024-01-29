@@ -33,6 +33,7 @@ The following packages are required to run the notebooks:
 
 - [PyTorch](https://pytorch.org/)
 - [pref_voting: Preferential Voting Tools](https://pref-voting.readthedocs.io/en/latest/)
+- [Google Cloud Storage](https://cloud.google.com/python/docs/reference/storage/latest)
 - The notebooks and the pref_voting library is built around a full SciPy stack: [MatPlotLib](https://matplotlib.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [numba](http://numba.pydata.org/), 
 - [tqdm.notebook](https://github.com/tqdm/tqdm)
 - [seaborn](https://seaborn.pydata.org/)  
